@@ -1,6 +1,6 @@
 # Project Name: Wall-Climbing and Cleaning Robot (for Cobwebs) - v0.1
 
-Team: Joseph Bolujo and David Arinde
+By: Joseph Bolujo and David Arinde
 
 ## Aim:
 
